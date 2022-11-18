@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1667334606,
-        "narHash": "sha256-PEm3duBA32tcTgHBrotN+dFjxB8tkHGd7rypMmk8Nq8=",
+        "lastModified": 1668748879,
+        "narHash": "sha256-PUSjm0YkIRN6CFxxvTuFL6ugCgmiOyefN8FlO6wfCFM=",
         "owner": "nim-nix-pkgs",
         "repo": "monerorpc",
-        "rev": "2071457513b7d236922f7cee257a3d0d68df2de9",
+        "rev": "b8b7f4ee335800bf83430fc74f764e92e5f7cac0",
         "type": "github"
       },
       "original": {
